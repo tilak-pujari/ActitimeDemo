@@ -2,7 +2,7 @@ package programs;
 
 import java.util.Scanner;
 
-public class PrintDuplicateValues {
+public class P50_PrintDuplicateValues {
 
 	public static void main(String[] args) {
 		Scanner sc=new Scanner(System.in);

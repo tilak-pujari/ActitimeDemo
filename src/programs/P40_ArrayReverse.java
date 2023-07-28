@@ -1,6 +1,6 @@
 package programs;
 
-public class ArrayReverse {
+public class P40_ArrayReverse {
 
 	public static void main(String[] args) {
 

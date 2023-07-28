@@ -2,7 +2,7 @@ package programs;
 
 import java.util.Scanner;
 
-public class P03FactorialNum {
+public class P03_FactorialNum {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);

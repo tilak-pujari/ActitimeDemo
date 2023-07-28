@@ -4,7 +4,7 @@ import java.text.SimpleDateFormat;
 import java.util.Calendar;
 import java.util.Date;
 
-public class GetTime {
+public class P60_GetTime {
 
 	public static void main(String[] args) {
 

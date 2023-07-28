@@ -2,7 +2,7 @@ package programs;
 
 import java.util.Scanner;
 
-public class NoOfVowelsInString {
+public class P30_GetNoOfVowelsInString {
 
 	public static void main(String[] args) {
 		Scanner sc=new Scanner(System.in);
