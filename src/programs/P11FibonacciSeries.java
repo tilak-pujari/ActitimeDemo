@@ -17,8 +17,9 @@ public class P11FibonacciSeries {
 			next = first + second;
 			first = second;
 			second = next;
-
 		}
 	}
 
 }
+
+//Fibonacci sequence :A sequence in which each number is the sum of the two preceding ones. 
