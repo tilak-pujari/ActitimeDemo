@@ -5,20 +5,28 @@ import java.util.Scanner;
 public class P08_StrongNumber {
 
 	public static void main(String[] args) {
-		Scanner sc=new Scanner(System.in);
+		Scanner sc = new Scanner(System.in);
 		System.out.println("Enter the Number");
-		int num=sc.nextInt();
-		
-		int sum=0;
-		for(int i=1;i<=num;i++) {
-			int fact=1;
-			for(int j=1;j<=i;j++) {
-				fact*=j;
-			}
-			sum+=fact;
+		int num = sc.nextInt();
+		int temp = num;
+		int sum = 0;
+
+		while (temp > 0) {
+			int rem = temp % 10; // get last digit
+			int fact = 1;
 			
+			for (int i = 1; i <= rem; i++) {
+				fact *= i; // Calculate factorial
+			}
+			sum = sum + fact; // add factorial to sum
+			temp = temp / 10; // remove last digit
+
 		}
-		System.out.println("Prime of Num "+num+"is "+sum);
+		if (num == sum) {
+			System.out.println(num + " is Strong Number");
+		} else {
+			System.out.println(num + " is Not Strong Number");
+		}
 	}
 
 }
