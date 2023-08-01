@@ -2,7 +2,7 @@ package examsPrograms;
 
 import java.util.Scanner;
 
-public class P70_SwapNumWithoutUsing3rdVar {
+public class SwapNumWithout3rd {
 
 	public static void main(String[] args) {
 
