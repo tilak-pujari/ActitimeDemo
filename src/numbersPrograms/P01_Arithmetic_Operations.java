@@ -1,4 +1,4 @@
-package basicPrograms;
+package numbersPrograms;
 
 public class P01_Arithmetic_Operations {
 

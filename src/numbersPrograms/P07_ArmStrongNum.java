@@ -1,4 +1,4 @@
-package basicPrograms;
+package numbersPrograms;
 import java.util.Scanner;
 
 public class P07_ArmStrongNum {

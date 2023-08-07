@@ -1,4 +1,4 @@
-package basicPrograms;
+package numbersPrograms;
 
 public class P00_FirstProgram {
 
