@@ -3,6 +3,7 @@
 - Write a program to swap two numbers in Java.
 - Write a program to print all the elements of Fibonacci series.
 - Write a program to get Factorial of a number
+- Write a program to get Buzz Number from 0 to n
 - Check if a given number is palindrome or not.
 - Write a program to find whether a number is an Armstrong number or not.
 - Write a program to find whether a number is Strong number or not.
