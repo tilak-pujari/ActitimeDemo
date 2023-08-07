@@ -18,6 +18,5 @@ public class P09_Buzz_Number {
 	}
 }
 
-
 //7 14 17 21 27 28 35 37 42 47 49 
 //Number divisible by 7 or ending with 7
