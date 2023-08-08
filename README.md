@@ -21,3 +21,8 @@
 - Write a program to find the number is Even or Odd
 - Write a program to find given number is positive or negative
 - Write a program to get the values from user using Scanner class
+
+
+## Pattern Programs
+- Write a program to right angled triangle pattern
+- Write a program to left angled triangle pattern
