@@ -28,3 +28,5 @@
 - Write a program to left angled triangle pattern
 - Write a program to Pyramid triangle pattern
 - Write a program to create Diamond pattern
+- Write a program to create Downward angled triangle pattern
+- Write a program to create Mirrored angled triangle pattern
