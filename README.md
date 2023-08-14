@@ -1,7 +1,7 @@
 # Java Programs
 
 - Write a program to swap two numbers without using third variable in Java.
-- Write a program to print all the elements of Fibonacci series.
+- Write a program to print all the elements of Fibonacci series from 1 to N.
 - Write a program to get Factorial of a number
 - Write a program to get Buzz Number from 0 to n
 - Check if a given number is palindrome or not.
