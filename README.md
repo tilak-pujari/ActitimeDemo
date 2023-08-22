@@ -29,5 +29,5 @@
 - Write a program to create Diamond pattern
 - Write a program to create Downward angled triangle pattern
 - Write a program to create Mirrored angled triangle pattern
-- Write a program to create Left/Rigth Pascal pattern
+- Write a program to create Left/Right Pascal pattern
 - Write a program to create Sand Glass pattern
