@@ -8,8 +8,9 @@ public class P11_Num_Desc {
 			int n = 5;
 			for (i = n; i > 0; i--) {
 				for (j = 1; j <= i; j++) {
-					System.out.print(j);
+					System.out.print(j+" ");
 				}
+				//next line
 				System.out.println("");
 			}
 		}
