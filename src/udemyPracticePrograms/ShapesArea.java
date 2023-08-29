@@ -44,9 +44,10 @@ class Circle extends Shape{
     }
 }
 
-// TODO: Create a Rectangle class that extends Shape
+// Create a Rectangle class that extends Shape
 // The Rectangle class should have private double attributes for length and width, and a constructor to initialize them
 // It should also implement the calculateArea() method 
+
 class Rectangle extends Shape{
     private double length;
     private double width;
