@@ -2,7 +2,7 @@ package udemyPracticePrograms;
 
 public class PerformArithmetic {
 	public int perform(int a, int b) {
-		return a + b;
+		return 1;
 	}
 
 	public static void main(String[] args) {
