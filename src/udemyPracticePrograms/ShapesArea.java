@@ -5,7 +5,9 @@ public class ShapesArea {
 	public static void main(String[] args) {
 		Shape s=new Circle("circle",10.5);
 		System.out.println(s.calculateArea());
-
+		
+		Shape s1=new Rectangle("rectangle",25.0,10.0);
+		System.out.println(s1.calculateArea());
 	}
 
 }
