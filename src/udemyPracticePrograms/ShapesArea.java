@@ -27,9 +27,10 @@ abstract class Shape {
     }
 }
 
-// TODO: Create a Circle class that extends Shape
+// Create a Circle class that extends Shape
 // The Circle class should have a private double radius attribute and a constructor to initialize it
 // It should also implement the calculateArea() method 
+
 class Circle extends Shape{
     private double radius;
     public Circle(String name,double radius){
