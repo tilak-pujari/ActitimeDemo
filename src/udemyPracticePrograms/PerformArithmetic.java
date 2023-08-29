@@ -3,11 +3,9 @@ package udemyPracticePrograms;
 public class PerformArithmetic {
 	public int perform(int a, int b) {
 		return a + b;
-
 	}
 
 	public static void main(String[] args) {
-
 		Add a = new Add();
 		System.out.println(a.perform(10, 5));
 
@@ -19,9 +17,7 @@ public class PerformArithmetic {
 
 		Divide d = new Divide();
 		System.out.println(d.perform(10, 5));
-		// check if denom is zero
-		System.out.println(d.perform(10, 0));
-
+		System.out.println(d.perform(10, 0)); // check if y is zero it should get -1
 	}
 }
 
