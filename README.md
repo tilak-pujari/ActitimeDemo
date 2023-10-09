@@ -7,9 +7,9 @@
 - Check if a given number is palindrome or not.
 - Write a program to find whether a number is an Armstrong number or not.
 - Write a program to find whether a number is Strong number or not.
-- Write a program to reverse a string
-- Write a program to reverse an array
-- Write a program to swap words
+- Write a program to reverse a string.
+- Write a program to reverse an array.
+- Write a program to swap words.
 - Write a program to find the sum of n natural numbers.
 - Write a program to get input from the user.
 - Write a program to check even or odd integers.
@@ -23,11 +23,11 @@
 - Write a program to get the values from user using Scanner class.
 
 ## Pattern Programs
-- Write a program to right angled triangle pattern
-- Write a program to left angled triangle pattern
-- Write a program to Pyramid triangle pattern
-- Write a program to create Diamond pattern
-- Write a program to create Downward angled triangle pattern
-- Write a program to create Mirrored angled triangle pattern
-- Write a program to create Left/Right Pascal pattern
-- Write a program to create Sand Glass pattern
+- Write a program to right angled triangle pattern.
+- Write a program to left angled triangle pattern.
+- Write a program to Pyramid triangle pattern.
+- Write a program to create Diamond pattern.
+- Write a program to create Downward angled triangle pattern.
+- Write a program to create Mirrored angled triangle pattern.
+- Write a program to create Left/Right Pascal pattern.
+- Write a program to create Sand Glass pattern.
