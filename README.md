@@ -17,10 +17,10 @@
 - Write a program to check leap year.
 - Write a program to calculate simple interest.
 - Write a program to calculate compound interest.
-- Write a program to find the perimeter of a rectangle
-- Write a program to find the number is Even or Odd
-- Write a program to find given number is positive or negative
-- Write a program to get the values from user using Scanner class
+- Write a program to find the perimeter of a rectangle.
+- Write a program to find the number is Even or Odd.
+- Write a program to find given number is positive or negative.
+- Write a program to get the values from user using Scanner class.
 
 ## Pattern Programs
 - Write a program to right angled triangle pattern
